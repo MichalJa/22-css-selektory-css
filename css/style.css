@@ -1,0 +1,9 @@
+p {
+    color: #41c9d3;
+}
+h1, h3 {
+    background-color: #794fda;
+}
+h1+h3 {
+    color: white;
+}
